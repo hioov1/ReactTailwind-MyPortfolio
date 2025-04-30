@@ -16,7 +16,7 @@ const projects = [
   {
     title: "Third Portfolio Website",
     image: "/assets/img/project3.png",
-    url: "#",
+    url: "https://github.com/hioov1/ReactTailwind-MyPortfolio",
     tools: ["Vite", "React", "TailwindCSS", "Framer-Motion"],
   },
 ];
